@@ -1,0 +1,14 @@
+MARATONA DE ESTUDO - DIA Nº 18
+
+Hoje, digamos que iniciei a praticar o django sem auxilio de cursos.
+Criei um sistema de login e registro de usuário onde o mesmo, 
+onde o mesmo tem as funcionalidades de ->Login, Logout, Cadastrar novo usuário, verificar se o usuário ja é registrado.
+link do repositório no git-hub -> https://github.com/Erickson-lopes-dev/Django-registration-login-test
+
+
+Links dos participantes: 
+- Diogo lima  https://www.linkedin.com/in/diogolimadev/ 
+- Jackson Silva  https://www.linkedin.com/in/jacksonsilvadev/ 
+
+#github #django #maratonadev60D  #python #sqlite #OOP
+#projetopratico #start #son

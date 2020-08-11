@@ -1,0 +1,25 @@
+MARATONA DE ESTUDO - DIA Nº 22
+
+Hoje estabeleci uma meta, realizar do zero o tutorial da  documentação do django, link da documentação->https://docs.djangoproject.com/en/3.0/intro/
+Repositório do projeto-> https://github.com/Erickson-lopes-dev/Django-documentation-project
+
+Conteudo abordado:
+- Codando views
+- Um atalho: render()
+- Gerando um erros 404, get_object_or_404()
+- Usando sistema de templates
+- Removendo URLs codificados em modelos
+- Nomes de URL de namespaces
+- Escreva um formulário mínimo
+- Usando visualizações genéricas para código limpo
+- Alterar URLconf
+- Alterar views para manipulação com classes
+- testes automatizados
+- Personalize a aparência do seu aplicativo
+- Personalizar a lista de alterações de administrador
+
+Links dos participantes: 
+- Diogo lima  https://www.linkedin.com/in/diogolimadev/ 
+- Jackson Silva  https://www.linkedin.com/in/jacksonsilvadev/ 
+
+#documentacao #django #maratonadev60D  #python #github 

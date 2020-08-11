@@ -1,0 +1,25 @@
+MARATONA DE ESTUDO - DIA Nº 15
+
+Finalizando o curso de Django views orientado a objeto da School of net.
+link do curso -> https://www.schoolofnet.com/curso/python/django/django-views-orientado-objetos/
+
+Conteúdo de aprendizado de hoje:
+- Método RedirectView 
+- Decorador @method_decorator
+- O que são mixins
+- LoginRequiredMixin
+- Implementando reverse_lazy para rotas
+- Método ListView
+-      "      DetailView
+-      "      CreateView
+-      "      UpdateView
+-      "      DeleteView
+- Mixin para ajudar na validação de dados
+
+Repositório do projeto no git-hub -> https://github.com/Erickson-lopes-dev/school-of-net-views-oop-django
+
+Links dos participantes: 
+- Diogo lima  https://www.linkedin.com/in/diogolimadev/ 
+- Jackson Silva  https://www.linkedin.com/in/jacksonsilvadev/ 
+
+#github #django #maratonadev60D  #cursoonline #python #python3 #sqlite #form #views #OOP

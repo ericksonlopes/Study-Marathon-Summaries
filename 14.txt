@@ -1,0 +1,17 @@
+MARATONA DE ESTUDO - DIA Nº 14
+
+Realizando o curso de Django views orientado a objeto da School of net.
+link do curso -> https://www.schoolofnet.com/curso/python/django/django-views-orientado-objetos/
+
+Conteúdo de aprendizado de hoje:
+- Uitlizando classe usando de herança o View para retornar templates
+- método as.views()
+- Refatorando códigos e deixando legivéis 
+
+Repositório do projeto no git-hub -> https://github.com/Erickson-lopes-dev/school-of-net-views-oop-django
+
+Links dos participantes: 
+- Diogo lima  https://www.linkedin.com/in/diogolimadev/ 
+- Jackson Silva  https://www.linkedin.com/in/jacksonsilvadev/ 
+
+#github #django #maratonadev60D  #cursoonline #python #python3 #sqlite #form #views #OOP

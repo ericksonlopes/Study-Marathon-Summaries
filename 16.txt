@@ -1,0 +1,20 @@
+MARATONA DE ESTUDO - DIA Nº 16
+
+Iniciando um projeto prático com School of net:
+Desenvolvendo um Market Place com Django. link do curso -> https://www.schoolofnet.com/projeto-pratico/python/django/desenvolvendo-um-market-place-com-django/
+
+Conteúdo de aprendizado de hoje:
+- Configurando ambiente de trabalho
+- Criando model
+- Registrando categoria e criando uma população em cima do slug baseado no name usado (prepopulated_fields, list_filter, list_display)
+- Configurando exibição de nomes no django admin (verbose_name_plural, __str__) 
+- Definindo classes de produtos
+
+Repositório do projeto no git-hub -> https://github.com/Erickson-lopes-dev/shool-of-net-Market-Place-Django
+
+Links dos participantes: 
+- Diogo lima  https://www.linkedin.com/in/diogolimadev/ 
+- Jackson Silva  https://www.linkedin.com/in/jacksonsilvadev/ 
+
+#github #django #maratonadev60D  #python #sqlite #OOP
+#projetopratico #start

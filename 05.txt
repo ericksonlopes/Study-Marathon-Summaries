@@ -1,0 +1,36 @@
+MARATONA DE ESTUDO - DIA Nº 05
+
+Conteúdo de aprendizado de hoje:
+
+Iniciei o curso de Django da Digital Innovation;
+
+Introdução aos conceitos e ambiente do Django.
+lista dos assuntos abordados:
+- Introdução ao django 
+- Virtual machine
+- Criação de projeto
+- Criando primeiro aplicação
+- url's e views
+- Criando repositório para o projeto no git-hub
+
+link da Plataforma -> https://web.digitalinnovation.one/
+
+link do projeto no git-hub -> https://github.com/Erickson-lopes-dev/Digital-innovation-django
+
+Aprendi também sobre bootstrap com Django.
+- Melhorando estética do projeto com Bootstrap
+- Personalizando os formulários com bootstrap
+- Trabalhando com heranças com bootstrap
+- Instalando django-bootstrap-form
+- Ajuster de grid com bootstrap
+
+- link do site que realizei o deploy no heroku -> https://gestao-clientes-maratovadev.herokuapp.com/
+- Curso -> https://www.udemy.com/course/django-20-heroku/
+- Repositório do projeto final -> https://github.com/Erickson-lopes-dev/final-project-customer-app-django
+
+
+Links dos participantes: 
+- Diogo lima  https://www.linkedin.com/in/diogolimadev/ 
+- Jackson Silva  https://www.linkedin.com/in/jacksonsilvadev/ 
+
+#django #heroku #python #maratonadev60D #curso #git #python3 #bootstrap #digitalinnovation

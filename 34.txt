@@ -1,0 +1,11 @@
+MARATONA DE ESTUDO - DIA Nº 34
+
+-Conteúdo desenvolvido de hoje : 
+Projeto prático, sistema de CRUD com django.
+Repositório do projeto https://github.com/Erickson-lopes-dev/Django-CRUD-testt
+
+- Links dos participantes da maratona: 
+Diogo lima https://lnkd.in/gNmr3SP 
+Jackson Silva https://lnkd.in/g6D2WZu 
+
+#maratonadev60d #python #django #backend #CRUD #pratica #github 

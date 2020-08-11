@@ -1,0 +1,15 @@
+MARATONA DE ESTUDO - DIA Nº 38
+
+- Terceiro dia de live na twitch.
+Página de criação de novos usuários
+Criei o sistema de CRUD para os posts.
+link da minha stream: https://www.twitch.tv/erickson_dev
+Reposirótio do projeto praticado na live: https://github.com/Erickson-lopes-dev/Django-Streamblog
+
+- Links dos participantes da maratona: 
+Diogo lima https://lnkd.in/gNmr3SP 
+Jackson Silva https://lnkd.in/g6D2WZu 
+
+
+
+#maratonadev60d #python #django #backend #pratica #github #live #twitch #blog #aovivo

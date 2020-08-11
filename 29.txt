@@ -1,0 +1,13 @@
+MARATONA DE ESTUDO - DIA Nº 28
+
+-Conteúdo desenvolvido de hoje : 
+Realizei a conclusão de um curso de html básico para aprender suas princípais funcionalidades.
+link do curso: https://www.schoolofnet.com/curso/frontend/html/html-basico-v2/
+Repositório no git-hub: https://github.com/Erickson-lopes-dev/html-school-of-net-att2
+
+- Links dos participantes da maratona: 
+Diogo lima https://lnkd.in/gNmr3SP 
+Jackson Silva https://lnkd.in/g6D2WZu 
+
+
+#projetopratico #maratonadev60d #python #django #praticar #backend 

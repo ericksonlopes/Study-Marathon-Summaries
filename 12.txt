@@ -1,0 +1,19 @@
+MARATONA DE ESTUDO - DIA Nº 12
+
+Finalizando o curso intermediário de django da School of net.
+link do curso -> https://www.schoolofnet.com/curso/python/django/iniciando-com-django-rev2
+
+Conteúdo de aprendizado de hoje:
+- Reaproveitando formulário criando apenas 1 para create e update
+- Iniciando modelagem de formulários com django
+- Estilizando formulários
+- Organizando urls e rotas com include() e reserve()
+- Criando exclusão de itens do banco de dados
+
+Repositório do projeto no git-hub -> https://github.com/Erickson-lopes-dev/school-of-net-intermediate-django
+
+Links dos participantes: 
+- Diogo lima  https://www.linkedin.com/in/diogolimadev/ 
+- Jackson Silva  https://www.linkedin.com/in/jacksonsilvadev/ 
+
+#github #django #maratonadev60D  #cursoonline #python #python3 #sqlite #bootstrap #form

@@ -1,0 +1,21 @@
+MARATONA DE ESTUDO - DIA Nº 06
+
+Conteúdo de aprendizado de hoje:
+
+Continuação do curso de Django da Digital innovation 
+link do curso: https://web.digitalinnovation.one/course/desenvolvimento-para-internet-e-banco-de-dados-com-python-e-django/learning/8cb6644d-9495-417b-aada-b82537c06c27
+
+Lista de assuntos aborados:
+- Entendo a estutura básica do Django (Resumo geral de toda aplicação)
+- Banco de dados 
+- Django Admin
+- Criando Repositório no git-hug
+
+Repositório do projeto no git-hub -> https://github.com/Erickson-lopes-dev/Digital-innovation-django
+
+Links dos participantes: 
+- Diogo lima  https://www.linkedin.com/in/diogolimadev/ 
+- Jackson Silva  https://www.linkedin.com/in/jacksonsilvadev/
+
+#git # django #maratonadev60D #digitalinnovation #cursoonline #python # python3
+

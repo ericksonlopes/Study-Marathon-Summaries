@@ -1,0 +1,29 @@
+MARATONA DE ESTUDO - DIA Nº 11
+
+Agregando muito mais conhecimento com o curso intermediário de django da School of net.
+link do curso -> https://www.schoolofnet.com/curso/python/django/iniciando-com-django-rev2
+
+Conteúdo de aprendizado de hoje:
+- Aprendendo sobre Usuários staff e não staff
+- Criando página de login de usuário
+- Implementando login
+- Estabelecendo a autenticação de fato
+- Implementando Logout
+- Proteção de páginas internas
+- Recuperar usuário autenticado
+- Criando modelo de endereços
+- listagem de endereços
+- Criando endereços
+- Reutilização de templates
+- Iniciando modelagem de formulários (CRUD) 
+- Criação de registros com sistema de formulários(CREATE)
+- Atualizando registros com sistema de formulários(UPDATE)
+
+
+Repositório do projeto no git-hub -> https://github.com/Erickson-lopes-dev/school-of-net-intermediate-django
+
+Links dos participantes: 
+- Diogo lima  https://www.linkedin.com/in/diogolimadev/ 
+- Jackson Silva  https://www.linkedin.com/in/jacksonsilvadev/ 
+
+#github #django #maratonadev60D  #cursoonline #python #python3 #sqlite #bootstrap

@@ -1,0 +1,23 @@
+MARATONA DE ESTUDO - DIA Nº 43(não consegui postar ontem)
+
+
+- Concluindo o curso de APIs Rest com Django. 
+link do curso: https://www.schoolofnet.com/curso/python/django/apis-rest-com-django-rev2/
+Assuntos abordados:
+ - Serializers
+ - ViewSet
+ - Interface Django REST
+ - GET, POST, PUT, DELETE, PATH
+ - boas práricas de serialização com relacionamentos 
+ - Paginação
+ - Autencitação
+
+- Links dos participantes da maratona: 
+Diogo lima https://lnkd.in/gNmr3SP 
+Jackson Silva https://lnkd.in/g6D2WZu 
+
+
+link das minhas lives na twitch: https://www.twitch.tv/erickson_dev
+
+
+#maratonadev60d #python #django #backend #pratica #github #live #twitch #blog #aovivo 

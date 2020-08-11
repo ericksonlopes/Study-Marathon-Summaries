@@ -1,0 +1,23 @@
+MARATONA DE ESTUDO - DIA Nº 44
+
+
+- Rezlizando aulas do curso: Crie APIs REST com Python e Django REST Framework: Essencial
+link do curso: https://www.udemy.com/course/criando-apis-rest-com-django-rest-framework-essencial/
+Repositório do projeto: https://github.com/Erickson-lopes-dev/APIs-REST-DjangoGeek-University-Essencial
+Assuntos abordados:
+ - Entendendo o conceito de APIs REST
+ - Conhecendo o Django REST Framework(DRF)
+ - Criando modelos de dados relacionais para testes
+ - Usando o Model Serializers
+ - Criando APIView para o método HTTP GET
+
+
+- Links dos participantes da maratona: 
+Diogo lima https://lnkd.in/gNmr3SP 
+Jackson Silva https://lnkd.in/g6D2WZu 
+
+
+link das minhas lives na twitch: https://www.twitch.tv/erickson_dev
+
+
+#maratonadev60d #python #django #backend #pratica #github #live #twitch #blog #aovivo #dev #webDeveloper #developer #udemycourses

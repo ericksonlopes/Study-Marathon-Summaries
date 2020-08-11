@@ -1,0 +1,34 @@
+MARATONA DE ESTUDO - DIA Nº 02
+
+Conteúdo de aprendizado de hoje:
+
+Continuei o tutorial proposto pela documentação do django.
+
+Parte 3
+- Visão geral
+- Escrevendo mais visualizações
+- Escreva visualizações que realmente fazem algo
+- Um atalho: render()
+- Gerando um erro 404
+- Um atalho: get_object_or_404()
+- Use o sistema de modelos
+- Removendo URLs codificados em modelos
+- Nomes de URL de namespacing
+
+Parte 4
+- Escreva um formulário mínimo
+- Use visualizações genéricas: menos código é melhor
+- Alterar URLconf
+- Alterar visualizações
+
+Links do material utilizado:
+- Escrevendo sua primeira aplicação Django, parte 3 
+https://docs.djangoproject.com/en/3.0/intro/tutorial03/
+
+-Escrevendo sua primeira aplicação Django, parte 4
+https://docs.djangoproject.com/en/3.0/intro/tutorial04/
+
+
+Links dos participantes: 
+- Diogo lima  https://www.linkedin.com/in/diogolimadev/ 
+- Jackson Silva  https://www.linkedin.com/in/jacksonsilvadev/ 

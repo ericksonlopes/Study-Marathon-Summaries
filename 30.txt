@@ -1,0 +1,15 @@
+MARATONA DE ESTUDO - DIA Nº 28
+
+-Conteúdo desenvolvido de hoje : 
+Pesquisei saber mais sobre o sistema de login do django, vendo alguns 
+hora de codar -> https://www.horadecodar.com.br/2019/01/17/autenticacao-com-django-2/
+learndjango -> https://learndjango.com/tutorials/django-login-and-logout-tutorial
+stackoverflow -> https://pt.stackoverflow.com/questions/238978/login-no-django
+Documentação django -> https://docs.djangoproject.com/en/3.0/topics/auth/default/
+
+
+- Links dos participantes da maratona: 
+Diogo lima https://lnkd.in/gNmr3SP 
+Jackson Silva https://lnkd.in/g6D2WZu 
+
+#maratonadev60d #python #django #praticar #backend #login #logout #register

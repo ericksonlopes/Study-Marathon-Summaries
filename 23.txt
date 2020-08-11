@@ -1,0 +1,10 @@
+MARATONA DE ESTUDO - DIA Nº 23
+
+Absorvendo mais conhecimento sobre o django com o curso direcionado ao aprendizado sobre o django 3, link do curso -> https://www.udemy.com/course/web-sites-django-3
+Realizando 13 aulas de 28, abordando os assuntos básicos(urls, views, templates) e um Overview do que ha de novo no django 3
+
+Links dos participantes: 
+- Diogo lima  https://www.linkedin.com/in/diogolimadev/ 
+- Jackson Silva  https://www.linkedin.com/in/jacksonsilvadev/ 
+
+#curso #django #maratonadev60D  #python #github #django3

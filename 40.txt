@@ -1,0 +1,16 @@
+MARATONA DE ESTUDO - DIA Nº 40
+
+
+- Realizando aulas do curso Django avançado, 100+ aulas domine framework like a boss.
+Estudando sobre  Sistema de templates.
+link do curso https://www.udemy.com/course/django-avancado-100-aulas/
+
+- Práticando em live, refatorando código para colocar class based view.
+link das lives: https://www.twitch.tv/erickson_dev
+
+- Links dos participantes da maratona: 
+Diogo lima https://lnkd.in/gNmr3SP 
+Jackson Silva https://lnkd.in/g6D2WZu 
+
+
+#maratonadev60d #python #django #backend #pratica #github #live #twitch #blog #aovivo 

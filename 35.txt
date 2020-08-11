@@ -1,0 +1,13 @@
+MARATONA DE ESTUDO - DIA Nº 34
+
+- Amanhã irei começar a streamar na twitch, compartilhar conhecimento, treinar habilidades e ganhar mais visibilidade, toda ajuda é bem vinda!
+link: https://www.twitch.tv/erickson_dev
+
+-Conteúdo desenvolvido de hoje : 
+Realizei algumas aulas do curso Programação Web com Python e Django Framework: Essencial https://www.udemy.com/course/programacao-web-com-django-framework-do-basico-ao-avancado
+
+- Links dos participantes da maratona: 
+Diogo lima https://lnkd.in/gNmr3SP 
+Jackson Silva https://lnkd.in/g6D2WZu 
+
+#maratonadev60d #python #django #backend #CRUD #pratica #github 

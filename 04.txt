@@ -1,0 +1,40 @@
+MARATONA DE ESTUDO - DIA Nº 04
+
+Conteúdo de aprendizado de hoje:
+
+Continuação do curso de django.
+
+Realizando um CRUD por completo.
+- Extraindo url's de apps
+- Read ( Lendo cadastros do banco e enviando para o html )
+- Criando formulários com django
+- Create ( Criando novos cadastros e salvando no banco de dados )
+- Update ( Atualizando cadastros existentes )
+- Delete ( Deletando cadastros do banco )
+
+Desenvolvendo uma aplicação real.
+- Versionando a aplicação com GIT
+- Migrando uma app no django
+- Criando funções de login e logout
+- baixar pgadmin3 e postgre, psycopg2
+
+Deploy da aplicação no heroku.
+- Protegendo secret key
+- Alterando configurações do banco de dados
+- Configurando para arquivos estaticos (com dj-static)
+- Como fazer Deploy no heroku
+
+
+links:
+- link do site que realizei o deploy no heroku -> https://gestao-clientes-maratovadev.herokuapp.com/
+- Curso -> https://www.udemy.com/course/django-20-heroku/
+- Repositório do projeto final -> https://github.com/Erickson-lopes-dev/final-project-customer-app-django
+
+
+Links dos participantes: 
+- Diogo lima https://www.linkedin.com/in/diogolimadev/ 
+- Jackson Silva https://www.linkedin.com/in/jacksonsilvadev/ 
+
+
+#django #heroku #python #maratonadev60D #curso #git #python3
+

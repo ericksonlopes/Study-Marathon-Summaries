@@ -1,0 +1,21 @@
+MARATONA DE ESTUDO - DIA Nº 13
+
+Iniciando o curso de django views orientado a objeto da School of net.
+link do curso -> https://www.schoolofnet.com/curso/python/django/django-views-orientado-objetos/
+
+Conteúdo de aprendizado de Views hoje:
+- refatoraidno códigos do curso de Django intermediario
+- Chamando templates com TemplateView
+- Método HTTP com TemplateView
+- ancestral view
+
+Leitura no Real Python sobre usuários em Django:
+link -> https://realpython.com/django-user-management/
+
+Repositório do projeto no git-hub -> https://github.com/Erickson-lopes-dev/school-of-net-views-oop-django
+
+Links dos participantes: 
+- Diogo lima  https://www.linkedin.com/in/diogolimadev/ 
+- Jackson Silva  https://www.linkedin.com/in/jacksonsilvadev/ 
+
+#github #django #maratonadev60D  #cursoonline #python #python3 #sqlite #form #views #OOP

@@ -1,0 +1,26 @@
+MARATONA DE ESTUDO - DIA Nº 10
+
+Agregando muito mais conhecimento com o curso inicial de django da School od net.
+link do curso -> https://www.schoolofnet.com/curso/python/django/iniciando-com-django-rev2
+
+Conteúdo de aprendizado de hoje:
+- Introdução ao Django
+- Conhecendo a área administrativa
+- Conceitos de uma aplicação Django
+- Django ORM - Criando models
+- Campos facultativos
+- Traduções na área administrativa 
+- Realcionamento de posts e usuário
+- Relacionamento de posts e categorias
+- Camada de rotas e views
+- Templates
+- Listando posts e um post
+- Sistema de layout
+- Rotas nomeadas 
+- Filtros com parâmetros
+
+Repositório do projeto no git-hub -> https://github.com/Erickson-lopes-dev/school-of-net-starting-django
+
+Links dos participantes: 
+- Diogo lima  https://www.linkedin.com/in/diogolimadev/ 
+- Jackson Silva  https://www.linkedin.com/in/jacksonsilvadev/ 

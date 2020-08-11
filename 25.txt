@@ -1,0 +1,15 @@
+MARATONA DE ESTUDO - DIA Nº 25
+
+- Hoje foi dia de projeto prático! solidificando conhecimento,  Onde construi o backend de um site utilizando Django. procurei um bom template para fazer um blog onde o administrador podera postar textos com titulo e subtitulo, utilizando a poderosa ferramenta Django-admin. Com deploy feito do heroku.
+
+Link do site -> https://tente-me-entender.herokuapp.com/
+Repositório no git-hub -> https://github.com/Erickson-lopes-dev/Django-practical-project-TenteMeEntender
+
+- Links dos participantes da maratona: 
+Diogo lima https://lnkd.in/gNmr3SP 
+Jackson Silva https://lnkd.in/g6D2WZu 
+
+- Em breve vou começar a fazer stream na twitch
+
+
+#heroku #django #maratonadev60D #python #github #blog #web website #templates

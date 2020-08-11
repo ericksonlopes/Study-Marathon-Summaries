@@ -1,0 +1,45 @@
+MARATONA DE ESTUDO - DIA Nº 03
+
+Conteúdo de aprendizado de hoje:
+
+Iniciei um curso online sobre Django para conhecer e ampliar meu conhecimento no framework.
+Fiz um resumo do conteúdo aprendido em cada sessão:
+
+Criei um repositório no git-hub onde estou subindo o código do projeto.
+- https://github.com/Erickson-lopes-dev/customer-application-django
+
+Seção 1 (Deixando o projeto pronto para desenvolvimento)
+- introdução ao curso
+- preparando o ambiente (windows, linus e Mac Os) -> máquina virtual
+- Criação do projeto
+
+Seção 2 (Entendendo o funcionamento básico do django)
+- Entendendo uma requisição
+- URL's
+- Funções
+- Models
+- Criação de app
+- Conhecendo o django admin
+- templates
+- Arquivos estáticos
+- Instalar o Pillow
+- Arquivos de media
+- Exibindo arquivos de media (em modo debug)
+
+Uma breve pesquisada sobre a documentação do Jinja que é uma linguagem de modelagem moderna e fácil de projetar para o Python.
+- Variáveis
+- Estruturas de controle (for-in e if)
+
+
+Links do material utilizado:
+- Desenvolva uma aplicação django e deploy no heroku
+- https://www.udemy.com/course/django-20-heroku
+
+Links dos participantes: 
+- Diogo lima  https://www.linkedin.com/in/diogolimadev/ 
+- Jackson Silva  https://www.linkedin.com/in/jacksonsilvadev/ 
+
+
+
+
+#django #programação #maratonadev60D #start #python3 #foco #templates #html #tecnologia #css #developer #cursoonline #curso #udemy #autodidata #ninja #git #git-hub #pythonprogramming

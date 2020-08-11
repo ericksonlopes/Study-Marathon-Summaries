@@ -1,0 +1,34 @@
+MARATONA DE ESTUDO - DIA Nº 27
+
+Hoje o dia foi voltado em aprender e evoluir meu conhecimento em terminal linux!
+
+conhecendo seus principais comandos como:
+- help, man, cd
+- cat, >, | more, | less, | grep
+- clear, df, df -h, du, du -h, free, free -m
+- mkdir, ls, mkdir -p, mv, rm, rm -d, rm -rf
+- sudo passwd root.
+ 
+O comando chmod
+- Sistema de permissões
+
+O comando apt
+- apt-get update
+- apt-get install nome_pacote, apt-get install nome_pacote -y
+- apt-get remove -qq nome_pacote
+- apt-get --purge
+- apt-get autoremove
+- apt-cache search mysql
+- apt-get install -d nome_pacote
+
+Link do curso: https://www.schoolofnet.com/curso/sistemas-operacionais/terminal/linux-no-terminal/
+
+- Em breve vou começar a fazer stream na twitch
+
+
+- Links dos participantes da maratona: 
+Diogo lima https://lnkd.in/gNmr3SP 
+Jackson Silva https://lnkd.in/g6D2WZu 
+
+
+#linux #conhecimento #terminal #maratonadev60d

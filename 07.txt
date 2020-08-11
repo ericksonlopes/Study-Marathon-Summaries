@@ -1,0 +1,23 @@
+MARATONA DE ESTUDO - DIA Nº 07
+
+Conteúdo de aprendizado de hoje:
+
+Realizando mais uma aula do curso de Django da Digital innovation
+Link do curso -> https://web.digitalinnovation.one/course/desenvolvimento-para-internet-e-banco-de-dados-com-python-e-django/learning/fdd8de7d-083d-4f9e-a98a-abeb7c14fed9/
+
+Lista de assuntos abordados:
+- Criar classes no models
+- Como migrar a classe criada para o banco de dados
+- Como alterar uma classe de dados e replicar no banco de dados
+- Como registrar a classe no Django Admin
+- Adicionando Filtro de pesquisa
+
+Repositório do projeto no git-hub -> https://github.com/Erickson-lopes-dev/Digital-innovation-django
+
+Links dos participantes: 
+- Diogo lima  https://www.linkedin.com/in/diogolimadev/ 
+- Jackson Silva  https://www.linkedin.com/in/jacksonsilvadev/ 
+
+
+
+#oneweek #git # django #maratonadev60D #digitalinnovation #cursoonline #python # python3

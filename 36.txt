@@ -1,0 +1,14 @@
+MARATONA DE ESTUDO - DIA Nº 34
+
+- Hoje realizei minha primeira live na twitch, onde comecei a fazer um blog.
+Desenvolvendo sua tela inicial(home).
+Criando modelo de dados.
+Tela single de cara Post.
+
+link da twitch: https://www.twitch.tv/erickson_dev
+
+- Links dos participantes da maratona: 
+Diogo lima https://lnkd.in/gNmr3SP 
+Jackson Silva https://lnkd.in/g6D2WZu 
+
+#maratonadev60d #python #django #backend #pratica #github #live #twitch

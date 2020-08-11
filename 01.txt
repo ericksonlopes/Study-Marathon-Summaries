@@ -1,0 +1,40 @@
+MARATONA DE ESTUDO - DIA Nº 01
+
+Conteúdo de aprendizado de hoje:
+
+Eu ja tinha um breve conhecimento sobre o django, porém mesmo assim tive a decisão recomeçar do zero e realizar os tutoriais da documentação.
+
+
+Lista dos assuntos abordados:
+
+Parte 1
+- Criar uma máquina virtual
+- Criar projeto django
+- Criar app no projeto django
+- Mesclar app ao projeto
+- Escrever primeira view
+- Executar o projeto na máquina local
+- Configurando idioma do projeto
+
+Parte 2
+- migrate com banco de dados sqlite3 (migrate)
+- Definindo modelos
+- Realizando migrações (makemigrations)
+- Pegar nome da migração e retornar seu sql (sqlmigrate)
+- Um pouco sobre Shell Python 
+- Método __str__ para apresentação (visualizando no django admin)
+- Conhecendo o django admin
+- Criando super usuário (createsuperuser)
+- Tornar o app de pesquisa modificável no admin
+
+
+Links do material utilizado:
+-Escrevendo sua primeira aplicação Django, parte 1
+https://docs.djangoproject.com/en/3.0/intro/tutorial01/
+
+-Escrevendo sua primeira aplicação Django, parte 2
+https://docs.djangoproject.com/en/3.0/intro/tutorial02/ 
+
+Links dos participantes: 
+- Diogo lima  https://www.linkedin.com/in/diogolimadev/ 
+- Jackson Silva  https://www.linkedin.com/in/jacksonsilvadev/ 

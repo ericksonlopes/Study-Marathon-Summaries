@@ -1,0 +1,25 @@
+MARATONA DE ESTUDO - DIA Nº 17
+
+Realizando um projeto prático com School of net:
+Desenvolvendo um Market Place com Django. link do curso -> https://www.schoolofnet.com/projeto-pratico/python/django/desenvolvendo-um-market-place-com-django/
+
+Desenvolvimento de hoje:
+- Criando modelo de dados sobre perguntas e repostas 
+- Fazendo algumas configurações com django-ajax
+- Criando auto complemento para busca
+- Baixando arquivos do front-end
+- Criando página inicial
+- Implementando um template base 
+- Direcionando arquivos de estilo/js ao html com django({% load static %})
+- Blocos dinamicos{% block %}{% endblock %}
+- Criando aplicação de login
+- Views de Cadastro
+
+Repositório do projeto no git-hub -> https://github.com/Erickson-lopes-dev/shool-of-net-Market-Place-Django
+
+Links dos participantes: 
+- Diogo lima  https://www.linkedin.com/in/diogolimadev/ 
+- Jackson Silva  https://www.linkedin.com/in/jacksonsilvadev/ 
+
+#github #django #maratonadev60D  #python #sqlite #OOP
+#projetopratico #start #son

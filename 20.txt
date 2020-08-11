@@ -1,0 +1,16 @@
+MARATONA DE ESTUDO - DIA Nº 20
+
+Conteúdo de desenvolvimento de hoje:
+Realizando aulas do curso de Django Essencial da Geek University -> https://www.udemy.com/course/programacao-web-com-django-framework-do-basico-ao-avancado/
+Conteúdos abordados:
+- Arquitetura Cliente-Servidor
+- Protocolo HTTP e seus verbos (portas80(HTTP) - portas 443(HTTPS))
+- Programação Backend x Frontend x Full-Stack
+- Programação Estática x Dinâmica
+
+Links dos participantes: 
+- Diogo lima  https://www.linkedin.com/in/diogolimadev/ 
+- Jackson Silva  https://www.linkedin.com/in/jacksonsilvadev/ 
+
+#HTTP #django #maratonadev60D  #python
+#projetopratico #start

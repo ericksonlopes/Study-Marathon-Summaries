@@ -1,0 +1,25 @@
+MARATONA DE ESTUDO - DIA Nº 28
+
+-Conteúdo desenvolvido de hoje : 
+Iniciando um projeto prático para que eu treine meu conhecimento backend com django onde o intuito é criar uma "mini rede social" que apelidei como Rafiki,  onde os usuário podera criar posts que será visivel por todo site, através de pesquisa ou visualizado na página home. O principio é esse, porém ao passar do desenvolvimento vou repassando as novas funcionalidades do site através das minhas postagens diaria.
+
+O frontend do projeto foi utilizado um template ja existente criado pela HTML5 UP (https://html5up.net/).
+O foco do projeto é trabalhar o backend do site utilizando a tecnologia python com o framework Django.
+Quando o minímo da aplicação ja estiver pronta realizarei deploy no heroku.
+
+
+- Link do repositório do projeto no git-hub: https://github.com/Erickson-lopes-dev/Django-Project-Rifiki
+
+
+- Links dos participantes da maratona: 
+Diogo lima https://lnkd.in/gNmr3SP 
+Jackson Silva https://lnkd.in/g6D2WZu 
+
+
+- Em breve vou começar a fazer stream na twitch
+
+
+Aproveitando esse post quero agradecer as pessoas que vem me fortalecendo a subir cada degrau da minha evolução! jackson silva, diogo lima, viniccius <- marcar os tres
+
+
+#projetopratico #maratonadev60d #python #django #praticar #backend #html5up

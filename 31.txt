@@ -1,0 +1,13 @@
+MARATONA DE ESTUDO - DIA Nº 31
+
+-Conteúdo desenvolvido de hoje : 
+Dando progresso ao projeto Rafiki (mini rede social) implementnado sistema de login.
+link do repositório do projeto https://github.com/Erickson-lopes-dev/Django-Project-Rafiki
+
+Realizei algumas aulas do curso Programação Web com Python e Django Framework: Essencial https://www.udemy.com/course/programacao-web-com-django-framework-do-basico-ao-avancado
+
+- Links dos participantes da maratona: 
+Diogo lima https://lnkd.in/gNmr3SP 
+Jackson Silva https://lnkd.in/g6D2WZu 
+
+#maratonadev60d #python #django #praticar #backend #login #logout #geekuniversity

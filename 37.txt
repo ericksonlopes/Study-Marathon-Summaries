@@ -1,0 +1,14 @@
+MARATONA DE ESTUDO - DIA Nº 37
+
+- Segundo dia de live na twitch, realizei a parte de login e authenticação no blog
+link da minha stream: https://www.twitch.tv/erickson_dev
+Reposirótio do projeto praticado na live: https://github.com/Erickson-lopes-dev/Django-Streamblog
+
+- Iniciando curso de Django avançado do Gregory:
+link do curso na udemy: https://www.udemy.com/course/django-avancado-100-aulas/learn/lecture/9482564?start=225#announcements
+
+- Links dos participantes da maratona: 
+Diogo lima https://lnkd.in/gNmr3SP 
+Jackson Silva https://lnkd.in/g6D2WZu 
+
+#maratonadev60d #python #django #backend #pratica #github #live #twitch #udemy #blog #aovivo

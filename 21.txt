@@ -1,0 +1,20 @@
+MARATONA DE ESTUDO - DIA Nº 21
+
+Hoje estabeleci uma meta, realizar do zero a documentação do django, link da documentação->https://docs.djangoproject.com/en/3.0/intro/
+Repositório do projeto-> https://github.com/Erickson-lopes-dev/Django-documentation-project
+
+Conteudo abordado:
+- HttpResponse
+- include,  
+- path() argumento: route, view, kwards, name
+- Configuração do banco de dados, modelos
+- Modelagem de dados(em django models)
+- Migrate, makemigrations, sqlmigrate, shell
+- Django admin
+
+Links dos participantes: 
+- Diogo lima  https://www.linkedin.com/in/diogolimadev/ 
+- Jackson Silva  https://www.linkedin.com/in/jacksonsilvadev/ 
+
+#HTTP #django #maratonadev60D  #python
+#projetopratico #start
