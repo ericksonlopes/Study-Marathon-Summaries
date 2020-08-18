@@ -1,0 +1,18 @@
+MARATONA DE ESTUDO - DIA Nº 48
+
+O conteúdo de aprendizado de hoje, foi entorno da documentação do Django REST Framework.
+Abordando os assuntos de seu tutorial.
+ - quickstart, resumo de uma aplicação
+ - Serialização
+ - Solicitações e respostas
+ - Visuaizações baseadas em classe
+ - Autenticação e permissões
+ 
+Criei um repositório onde depositei o conteúdo realizado: https://github.com/Erickson-lopes-dev/Documentation-Django-REST-Framework-Tutorial
+
+- Links dos participantes da maratona: 
+Diogo lima https://lnkd.in/gNmr3SP 
+Jackson Silva https://lnkd.in/g6D2WZu 
+
+
+#maratonadev60d #python #django #backend #github #dev #webDeveloper #developer #udemycourses #web #aprender #estudos #djangorestframework #api

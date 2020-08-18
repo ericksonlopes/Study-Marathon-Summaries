@@ -1,4 +1,4 @@
-MARATONA DE ESTUDO - DIA Nº 44
+MARATONA DE ESTUDO - DIA Nº 45
 
 
 - Rezlizando aulas do curso: Crie APIs REST com Python e Django REST Framework: Essencial

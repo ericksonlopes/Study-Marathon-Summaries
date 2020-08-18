@@ -1,0 +1,14 @@
+MARATONA DE ESTUDO - DIA Nº 49
+
+Finalizando tutorial da documentação do Django REST Framework
+ - Relacionamentos e APIs com hiperlinks
+ - ViewSets e roteadores
+ 
+Criei um repositório onde depositei o conteúdo realizado: https://github.com/Erickson-lopes-dev/Documentation-Django-REST-Framework-Tutorial
+
+- Links dos participantes da maratona: 
+Diogo lima https://lnkd.in/gNmr3SP 
+Jackson Silva https://lnkd.in/g6D2WZu 
+
+
+#maratonadev60d #python #django #backend #github #dev #webDeveloper #developer #udemycourses #web #aprender #estudos #djangorestframework #api

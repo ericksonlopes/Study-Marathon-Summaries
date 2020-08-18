@@ -1,0 +1,20 @@
+MARATONA DE ESTUDO - DIA Nº 47
+
+Após reter conhecimento de dois cursos sobre APIs com Django REST framework chega a hora mais necessária, a prática !
+Realizei um projeto onde criei duas aplicações onde uma se refere a API do projeto e outra ao website com um sistema super simples de CRUD usando templates e class based view.
+
+Repositório do projeto: https://github.com/Erickson-lopes-dev/API-CRUD-Django--pratic
+
+Sistema de authenticação via Token usado na API: https://medium.com/@renatojlelis/adicionando-autentica%C3%A7%C3%A3o-por-token-no-django-rest-framework-c3b8d6921bf7
+
+- Terminando Curso o Crie APIs REST com Python e Django REST Framework: Essencial
+link do curso: https://www.udemy.com/course/criando-apis-rest-com-django-rest-framework-essencial/
+Repositório do projeto: https://github.com/Erickson-lopes-dev/APIs-REST-DjangoGeek-University-Essencial
+
+
+- Links dos participantes da maratona: 
+Diogo lima https://lnkd.in/gNmr3SP 
+Jackson Silva https://lnkd.in/g6D2WZu 
+
+
+#maratonadev60d #python #django #backend #github #dev #webDeveloper #developer #udemycourses #web #aprender #estudos

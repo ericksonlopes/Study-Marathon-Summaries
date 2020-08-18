@@ -1,0 +1,21 @@
+MARATONA DE ESTUDO - DIA Nº 46
+
+
+- Rezlizando aulas do curso: Crie APIs REST com Python e Django REST Framework: Essencial
+link do curso: https://www.udemy.com/course/criando-apis-rest-com-django-rest-framework-essencial/
+Repositório do projeto: https://github.com/Erickson-lopes-dev/APIs-REST-DjangoGeek-University-Essencial
+
+Assuntos abordados:
+ - Utilizando autenticação via Token
+ - Fazendo uso de permissões
+ - Limitando o número de requisições com Throttling
+ - Customizando a validação dos dados
+ - Customizando a serialização dos dados
+
+
+- Links dos participantes da maratona: 
+Diogo lima https://lnkd.in/gNmr3SP 
+Jackson Silva https://lnkd.in/g6D2WZu 
+
+
+#maratonadev60d #python #django #backend #github #dev #webDeveloper #developer #udemycourses #web #aprender #estudos
