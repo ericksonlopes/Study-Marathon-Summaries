@@ -2,6 +2,7 @@ MARATONA DE ESTUDO - DIA Nº 53
 
 Aprimorando conhecimento em HTML:
 HTML Tutorial - 19 de 39
+Continuar de - HTML Block & Inline
 - Aprendendo através da w3SChools: https://www.w3schools.com/html/
 
 - Desenvolvendo back-end de um site como Django de ferramenta:
