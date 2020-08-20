@@ -1,0 +1,23 @@
+MARATONA DE ESTUDO - DIA Nº 53
+
+Aprimorando conhecimento em HTML:
+HTML Tutorial - 19 de 39
+- Aprendendo através da w3SChools: https://www.w3schools.com/html/
+
+- Desenvolvendo back-end de um site como Django de ferramenta:
+Configurando página de acesso aos posts do usuário.
+Comentando todo o código.
+- Repositório do projeto no git-hub: https://lnkd.in/eKun4_x
+
+- Tudo Desenvolvido em live! Me de uma força lá.  :D
+- Hoje foi 6 horas de stream.
+link do meu canal na twitch: https://lnkd.in/e_88PhW
+
+
+Links dos participantes da maratona:
+- Diogo lima https://lnkd.in/gNmr3SP
+- Jackson Silva https://lnkd.in/g6D2WZu
+
+
+#maratonadev60d #python #django #backend #pratica #github #live #twitch #djangorestframework
+#api #HTML #CSS #WEB #w3schools

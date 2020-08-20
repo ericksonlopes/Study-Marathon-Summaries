@@ -3,6 +3,7 @@ MARATONA DE ESTUDO - DIA Nº 51
 - Desenvolvendo back-end de um site como Django de ferramenta:
 Criando Sistema CRUD.
 Sistema de registro para novos usuários em conjunto com login e logout.
+Amanhã em resta fazer o sistema da API com Django REST Framework
 
 Repositório no git-hub: https://lnkd.in/eKun4_x
 
