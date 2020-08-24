@@ -1,0 +1,20 @@
+MARATONA DE ESTUDO - DIA Nº 57
+
+
+- Realizando aulas do curso: Reconhecimento Facial com Python e OpenCV
+link: https://lnkd.in/eqKY2wW
+
+Desenvolvimento de Hoje:
+ - Reconhecendo faces.
+ - Treinando algoritmo para reconhecimento.
+ - Reconhecendo faces ja treinadas.
+
+Repositório: https://lnkd.in/eXqjg3E
+
+
+- Links dos participantes da maratona:
+Diogo lima https://lnkd.in/gNmr3SP
+Jackson Silva https://lnkd.in/g6D2WZu
+
+
+#maratonadev60d #python #backend #github #aprender #estudos #opencv #cursos #reconhecimentofacial

@@ -1,0 +1,28 @@
+MARATONA DE ESTUDO - DIA Nº 54
+
+Iniciando curso de desenvolvimento em HTML5 e CSS3 na Digital innovation
+- link da DIO: https://web.digitalinnovation.one/browse
+Repositório no git-hub: https://github.com/Erickson-lopes-dev/DIO-HTML5-CSS3
+
+Aprimorando conhecimento em HTML:
+- Finalizando tutorial do HTML na w3schools: https://www.w3schools.com/html/default.asp
+- Aprendendo sobre formulários: https://www.w3schools.com/html/html_forms.asp
+Repositório no git-hub: https://github.com/Erickson-lopes-dev/w3schools-HTML
+
+Aprendendo CSS:
+- CSS Tutorial na w3schools: https://www.w3schools.com/css/
+Repositório no git-hub: https://github.com/Erickson-lopes-dev/w3schools-CSS
+
+
+
+- Tudo Desenvolvido em live! Me de uma força lá.  :D
+link do meu canal na twitch: https://lnkd.in/e_88PhW
+
+
+Links dos participantes da maratona:
+- Diogo lima https://lnkd.in/gNmr3SP
+- Jackson Silva https://lnkd.in/g6D2WZu
+
+
+#maratonadev60d #python #django #backend #pratica #github #live #twitch #djangorestframework
+#api #HTML #CSS #WEB #w3schools #DIO
