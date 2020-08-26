@@ -1,0 +1,21 @@
+MARATONA DE ESTUDO - DIA Nº 58
+
+
+- Realizando aulas do curso: REST APIs com Python e Flask
+link: https://www.udemy.com/course/rest-apis-com-python-e-flask/
+
+Desenvolvimento de Hoje:
+ - Aprendendo conceitos REST.
+ - REST e HTTP
+ - URls baseados em recursos
+ - CRUD
+
+Repositório: https://lnkd.in/eXqjg3E
+
+
+- Links dos participantes da maratona:
+Diogo lima https://lnkd.in/gNmr3SP
+Jackson Silva https://lnkd.in/g6D2WZu
+
+
+#maratonadev60d #python #backend #github #aprender #estudos #opencv #cursos #reconhecimentofacial
