@@ -1,0 +1,22 @@
+Finalizando a Maratona Dev.
+
+Queria primeiramente agradecer ao Jackson Silva pela iniciativa de realizar essa maratona para engajar ainda mais nossos estudos, e claro também agradecer ao Diogo Lima Lucas por ter feito parte e participado conosco. Tenho certeza que esse foi um passo muito grande para nosso futuro no ramo da tecnologia.
+
+Agora a meta é ampliar essa ideia, para encorajar outros programadores a criar o habito de aprender diariamente, criar uma perspectiva sobre o que aprendeu, entre outras habilidades (Quem quiser fazer parte ou saber mais pode entrar em contato comigo. Você pode até mesmo ter sua própria iniciativa a partir desta publicação).
+
+Viver em constante aprendizado é muito importante para o desenvolvimento de habilidades solidificantes e flexíveis.
+
+
+Antes de começar estabeleci algumas metas sobre o que eu queria/deveria aprender dentro desses 60 dias e consegui ter conhecimento de todas elas.
+- Django
+- Django REST Framework
+- Flask
+- HTML
+- CSS
+- Bootstrap
+Link do meu Git-Hub: https://lnkd.in/eG3cEZT
+
+
+
+#maratonadev60d #maratona #estudos #python #django #flask #html #css #bootstrap #tecnologias #estudos #developer
+PRAISE 2

@@ -1,0 +1,23 @@
+Ultimo dia da maratona  - DIA Nº 60
+
+Queria primeiramente agradecer ao (*** marca ele Jackson****) por ter essa iniciativa de realizar uma maratona para engajar ainda mais em programação , e claro também agradecer ao (**Diogo**) por ter feito parte e participado conosco. Tenho certeza que esse foi um passo muito grande para nosso futuro no ramo da tecnologia.
+
+Antes de começar estabeleci algumas metas sobre o que eu queria/deveria aprender 
+Tecnologias que estudei durante a maratona:
+- Django
+- Django REST Framework
+- Flask
+- HTML
+- CSS
+- Bootstrap
+
+
+Link do meu Git-Hub: https://github.com/Erickson-lopes-dev
+
+
+- Links dos participantes da maratona:
+Diogo lima https://lnkd.in/gNmr3SP
+Jackson Silva https://lnkd.in/g6D2WZu
+
+
+#maratonadev60d #maratona #estudos #python #django #flask #html #css #bootstrap #tecnologias
