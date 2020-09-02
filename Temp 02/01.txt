@@ -1,0 +1,26 @@
+MARATONA DE ESTUDO - DIA Nº 01
+
+- Concluindo curso de introdução ao Flask na School of Net.
+- link do curso na school of net: https://lnkd.in/esAbaFH
+
+Abordando os conceitos:
+- Montando Rotas
+- Lidando com objeto request, response
+- Provendo arquivos estáticos
+- Trabalhando com erros
+- Criando layout com Jinja2
+- Montando uma arquitetura para Flask
+- Manipulando dados com Flask-SQLAlchemy
+- CRUD do sistema
+
+Repositório do projeto:
+https://lnkd.in/e_GaieN
+
+- Links dos participantes da maratona:
+Jackson Silva: https://lnkd.in/g6D2WZu
+Erickson Lopes: https://lnkd.in/eHWNzTD
+Lucas Andrade: https://lnkd.in/efjUC6A
+Gustavo Neres: https://lnkd.in/eDCWHQZ
+Gerson Conceição: https://lnkd.in/ePBnkh5
+
+#maratonadev60d #python #github #git #flask #maratona #certificado #dev

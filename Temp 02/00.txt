@@ -1,0 +1,13 @@
+MARATONA DE ESTUDO - DIA Nº 01
+
+Abordando os sequintes coneitos:
+- Introdução ao Rest Api com Flask
+- Utilizando métodos, biblioteca Request e JSON
+- Descenvolvendo uma Rest Api completa
+- Descenvolvendo uma Rest Api com a extensão Flask-REST-ful
+- Manipulando banco de dados com SQLAlchemy
+- Rest Api com persistência em banco de dados
+- Rest Api com autenticação
+
+
+
