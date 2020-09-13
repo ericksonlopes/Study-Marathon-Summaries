@@ -1,0 +1,23 @@
+MARATONA DE ESTUDO - DIA Nº 06
+
+Estudando Flask utilizando sua documentação como base :
+link da documentação: https://flask.palletsprojects.com/en/1.1.x/
+
+Início rápido (Quickstart)
+ - uma aplicação mínima
+ - Rotas
+ - Variaveis em rotas
+ - URLs únicos / comportamento de redirecionamento
+ - Construção de URL
+ - Métodos HTTP 
+
+Repositório do projeto: https://github.com/Erickson-lopes-dev/Documentation-Flask
+
+
+Links dos participantes da maratona:
+ - Jackson Silva: https://lnkd.in/g6D2WZu
+ - Lucas Andrade: https://lnkd.in/efjUC6A
+ - Gustavo Neres: https://lnkd.in/eDCWHQZ
+ - Gerson Conceição: https://lnkd.in/ePBnkh5
+
+#maratonadev60d #python #github #git #flask #maratona #dev #udemy #web

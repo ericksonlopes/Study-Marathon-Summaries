@@ -1,0 +1,27 @@
+MARATONA DE ESTUDO - DIA Nº 07
+
+Concluindo curso de Django avançado na School of net:
+link: https://www.schoolofnet.com/curso/python/django/django-avancado/
+
+Abordando os seguintes temas:
+ - Meta abstract
+ - Fixtures
+ - Dumpdata
+ - Dumpdata, fixtures e outros formatos
+ - Signals
+ - Organização dos Signals
+ - Tipos de Signals
+ - Envio de e-mails
+ - Signals com testes automatizados
+ - Testes com HTTP
+
+Repositório do projeto: https://github.com/Erickson-lopes-dev/Documentation-Flask
+
+
+Links dos participantes da maratona:
+ - Jackson Silva: https://lnkd.in/g6D2WZu
+ - Lucas Andrade: https://lnkd.in/efjUC6A
+ - Gustavo Neres: https://lnkd.in/eDCWHQZ
+ - Gerson Conceição: https://lnkd.in/ePBnkh5
+
+#maratonadev60d #python #github #git #flask #maratona #dev #udemy #web

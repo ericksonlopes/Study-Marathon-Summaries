@@ -1,0 +1,28 @@
+MARATONA DE ESTUDO - DIA Nº 10
+
+- Realizando as aulas do curso Programação Web com Python e Django Framework: Essencial
+link: https://www.udemy.com/course/programacao-web-com-django-framework-do-basico-ao-avancado/
+
+Conceitos abordados em Django Framework Básico:
+ - Criando projeto e aplicação com SQlite3 e conhecendo sua estrutura.
+ - O padrão MTV do Django
+ - Configurações do Django e o arquivo settings.py
+ - Views no Django e o arquivo views.py
+ - Rotas no Django e o arquivo urls.py
+ - Templates no Django
+ - Models no Django e o arquivo models.py
+ - A área administrativa dos projetos Django e o arquivo admin.py
+ - Usando e abusando do Django Shell
+ - Apresentando dados do banco de dados no template
+ - Arquivos estáticos no Django: CSS, JavaScript e Imagens
+
+Repositório do projeto: 
+
+
+- Links dos participantes da maratona:
+Jackson Silva: https://lnkd.in/g6D2WZu
+Erickson Lopes: https://lnkd.in/eHWNzTD
+Gustavo Neres: https://lnkd.in/eDCWHQZ
+
+
+#maratonadev #python #github #git #django #maratona #dev #udemy  #maratona

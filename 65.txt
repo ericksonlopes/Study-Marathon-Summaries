@@ -1,0 +1,32 @@
+MARATONA DE ESTUDO - DIA Nº 03
+
+- Realizando as aulas do curso Flask Masterclass - Desenvolvendo aplicações web com python
+- link: https://www.udemy.com/course/criando-aplicacoes-com-flask-docker/
+
+Conceitos abordados em Autênticação:
+ - Instalando módulo de Autenticação(flask-login)
+ - Registrando extensão de login
+ - Criando formulário de registro e bloqueando rotas
+ - Criptografando senhas, realizando login e logout
+
+Conceitos abordados em Gerenciamento de Templates:
+ - Introdução aos templates
+ - Diretórios de templates
+ - Interando com objetos e Flash Message
+ - Integrando Bootstrap
+ - Criando componentes com Include do Jinja
+ - Urls dinâmicas, Atributos do HTML dinâmicos
+ - Jinja(condicionais, filtros, macros, creiando variaveis no template)
+ - Flash Category 
+
+Repositório do projeto:
+https://github.com/Erickson-lopes-dev/Flask-Masterclass-Web-Application-With-Python/tree/master
+
+- Links dos participantes da maratona:
+Jackson Silva: https://lnkd.in/g6D2WZu
+Erickson Lopes: https://lnkd.in/eHWNzTD
+Lucas Andrade: https://lnkd.in/efjUC6A
+Gustavo Neres: https://lnkd.in/eDCWHQZ
+Gerson Conceição: https://lnkd.in/ePBnkh5
+
+#maratonadev60d #python #github #git #flask #maratona #dev #udemy

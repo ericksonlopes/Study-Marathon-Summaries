@@ -1,0 +1,23 @@
+MARATONA DE ESTUDO - DIA Nº 03
+
+- Realizando as aulas do curso Flask Masterclass - Desenvolvendo aplicações web com python
+- link: https://www.udemy.com/course/criando-aplicacoes-com-flask-docker/
+
+Conceitos abordados em Avançando com SQLalchemy:
+ - Configurando Sqlalchemy
+ - Criando Modelo de dados 
+ - Consultando, inserindo e deletando registros (sistema CRUD)
+ - Trabalhando dados únicos
+ - Relacionamento entre tabelas
+
+Repositório do projeto:
+https://github.com/Erickson-lopes-dev/Flask-Masterclass-Web-Application-With-Python/tree/master
+
+- Links dos participantes da maratona:
+Jackson Silva: https://lnkd.in/g6D2WZu
+Erickson Lopes: https://lnkd.in/eHWNzTD
+Lucas Andrade: https://lnkd.in/efjUC6A
+Gustavo Neres: https://lnkd.in/eDCWHQZ
+Gerson Conceição: https://lnkd.in/ePBnkh5
+
+#maratonadev60d #python #github #git #flask #maratona #dev #udemy

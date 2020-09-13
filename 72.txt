@@ -1,0 +1,24 @@
+MARATONA DE ESTUDO - DIA Nº 11
+
+- Realizando as aulas do curso Programação Web com Python e Django Framework: Essencial
+link: https://www.udemy.com/course/programacao-web-com-django-framework-do-basico-ao-avancado/
+
+Conceitos abordados em Django Framework Básico:
+ - Criando um novo projeto com MySQL
+ - Definindo e configurando as views
+ - Definindo e configurando as rotas
+ - Trabalhando com formulários
+ - Salvando dados no banco de dados
+ - Apresentando dados no template 
+ - Trabalhando com seções do usuário
+
+Repositório do projeto: https://github.com/Erickson-lopes-dev/Django-Framework-Essential/tree/master/Django_Framework_Intermediario
+
+
+- Links dos participantes da maratona:
+Jackson Silva: https://lnkd.in/g6D2WZu
+Erickson Lopes: https://lnkd.in/eHWNzTD
+Gustavo Neres: https://lnkd.in/eDCWHQZ
+
+
+#maratonadev #python #github #git #django #maratona #dev #udemy  #maratona #heroku

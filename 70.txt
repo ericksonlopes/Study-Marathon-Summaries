@@ -1,0 +1,23 @@
+MARATONA DE ESTUDO - DIA Nº 09
+
+Conclusão de curso Search com Django e Algolia:
+link: https://www.schoolofnet.com/curso/python/django/search-com-django-e-algolia/
+
+Abordando os seguintes temas:
+ - Criando aplicação
+ - instalando AlgoliaSearch no Django
+ - Importando dados para o algolia 
+ - configurando importação do índice
+ - Criando busca em tempo real com algolia
+ - Buscando no backend
+
+Repositório do projeto no Git-Hub: https://github.com/Erickson-lopes-dev/SON-Research-Django-Algolia
+
+
+Links dos participantes da maratona:
+ - Jackson Silva: https://lnkd.in/g6D2WZu
+ - Lucas Andrade: https://lnkd.in/efjUC6A
+ - Gustavo Neres: https://lnkd.in/eDCWHQZ
+ - Gerson Conceição: https://lnkd.in/ePBnkh5
+
+#maratonadev60d #python #github #maratona #dev #django #algolia #SON #curso

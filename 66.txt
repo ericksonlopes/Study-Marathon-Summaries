@@ -1,0 +1,27 @@
+MARATONA DE ESTUDO - DIA Nº 05
+
+- Realizando as aulas do curso Flask Masterclass - Desenvolvendo aplicações web com python
+- link: https://www.udemy.com/course/criando-aplicacoes-com-flask-docker/
+
+Conceitos abordados em Refinando Autenticação e Refatoração:
+ - Estilizando com bootstrap
+ - Herança de templates
+ - Determinando tempo em que o usuário permanece conectado no sistema 
+
+Conceitos abordados em Flask Forms:
+ - Refatorando template de login com flask-bootstrap e flask-wtforms
+ - Emitindo erros para página de login e evitando CSRF
+ - Render Form Function, Validando form
+ - CRUD para dados relacionados a usuários
+
+
+Repositório do projeto: https://github.com/Erickson-lopes-dev/Flask-Masterclass-Web-Application-With-Python/tree/master
+
+
+Links dos participantes da maratona:
+ - Jackson Silva: https://lnkd.in/g6D2WZu
+ - Lucas Andrade: https://lnkd.in/efjUC6A
+ - Gustavo Neres: https://lnkd.in/eDCWHQZ
+ - Gerson Conceição: https://lnkd.in/ePBnkh5
+
+#maratonadev60d #python #github #git #flask #maratona #dev #udemy #web

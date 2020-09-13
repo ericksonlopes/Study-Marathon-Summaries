@@ -1,0 +1,28 @@
+MARATONA DE ESTUDO - DIA Nº 08
+
+Conclusão de curso Python - Iniciando com DB API da School Of Net:
+link: https://www.schoolofnet.com/curso/python/linguagem-python/python-iniciando-com-db-api/
+
+Abordando os seguintes temas:
+ - Utilizando MySQL com python
+ - tenstando conexão com o MySQL
+ - função connect e cursores
+ - interagindo com cursores
+ - trabalhando com método fetchone
+ - Usando o método fetchmany
+ - Inserindo informações no banco de dados
+ - SQL Injection e concatenação de queries
+ - execução de queries com parâmetros e queries múltiplas
+ - buscando último ID gerado pelo banco de dados
+ - Modo transação
+
+Repositório do projeto: https://github.com/Erickson-lopes-dev/SON-starting-DB-API
+
+
+Links dos participantes da maratona:
+ - Jackson Silva: https://lnkd.in/g6D2WZu
+ - Lucas Andrade: https://lnkd.in/efjUC6A
+ - Gustavo Neres: https://lnkd.in/eDCWHQZ
+ - Gerson Conceição: https://lnkd.in/ePBnkh5
+
+#maratonadev60d #python #github #git #maratona #dev #mysql #sql #django
