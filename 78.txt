@@ -1,0 +1,34 @@
+MARATONA DE ESTUDO - DIA Nº 78
+
+- Iniciando curso, Desenvolvimento avançado de aplicações corporativas com Django: https://www.udemy.com/course/desenvolvimento-avancado-de-aplicacoes-corporativas-c-django
+
+
+Conceitos abordados em Deploy da aplicação na Amazon AWS:
+ - Preparação do ambiente Git
+ - Criando a conta na Amazon e levantando uma instancia EC2
+ - Acessando a maquina virtual a SSH
+
+
+Conceitos abordados em Deploy na Prática:
+ - Rodando o projeto pela primeira vez na máquina virtual
+ - instalando o uWSGI
+ - Configurando o NGinx
+ - Rodando o Django com NGinx e uWSGI
+ - Rodando o uWSGI com arquivo .ini
+ - Configurando o Emperor mode
+ - Configurando o systemctl para start no boot
+
+
+
+- Repositório do projeto: https://github.com/Erickson-lopes-dev/Advanced-Enterprise-Application-Django
+
+
+
+
+- Links dos participantes da maratona:
+Jackson Silva: https://lnkd.in/g6D2WZu
+Erickson Lopes: https://lnkd.in/eHWNzTD
+Gustavo Neres: https://lnkd.in/eDCWHQZ
+
+
+#maratonadev #python #github #git #django #maratona #dev #maratona #heroku #udemy #aws #bootstrap #amazon #EC2 #NGinx #uWSGI

@@ -1,0 +1,23 @@
+MARATONA DE ESTUDO - DIA Nº 77
+
+- Iniciando curso, Desenvolvimento avançado de aplicações corporativas com Django: https://www.udemy.com/course/desenvolvimento-avancado-de-aplicacoes-corporativas-c-django
+
+
+Conceitos abordados em Cruds:
+ - Realizando crud de três apps
+ - Filtrando usuários pela empresa logada
+ - estilizando formulários com bootstrap form
+
+
+- Repositório do projeto: https://github.com/Erickson-lopes-dev/Advanced-Enterprise-Application-Django
+
+
+
+
+- Links dos participantes da maratona:
+Jackson Silva: https://lnkd.in/g6D2WZu
+Erickson Lopes: https://lnkd.in/eHWNzTD
+Gustavo Neres: https://lnkd.in/eDCWHQZ
+
+
+#maratonadev #python #github #git #django #maratona #dev #maratona #heroku #udemy #aws #bootstrap

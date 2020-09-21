@@ -1,0 +1,30 @@
+MARATONA DE ESTUDO - DIA Nº 76
+
+- Iniciando curso, Desenvolvimento avançado de aplicações corporativas com Django: https://www.udemy.com/course/desenvolvimento-avancado-de-aplicacoes-corporativas-c-django
+
+
+Conceitos abordados em Introdução e criação de apps:
+ - Preparando ambiente e criando projeto
+ - Criando Apps
+ - Definindo os relacionamentos
+
+Conceitos abordados em Views e templates das aplicações e cruds:
+ - Preparenado o sistema de templates 
+ - intefrando com Bootstrap
+ - implementando paginas de login e logout
+ - Criando form de edição e criação das empresas 
+
+
+- Repositório do projeto: https://github.com/Erickson-lopes-dev/Advanced-Enterprise-Application-Django
+
+
+
+
+
+- Links dos participantes da maratona:
+Jackson Silva: https://lnkd.in/g6D2WZu
+Erickson Lopes: https://lnkd.in/eHWNzTD
+Gustavo Neres: https://lnkd.in/eDCWHQZ
+
+
+#maratonadev #python #github #git #django #maratona #dev #maratona #heroku #udemy #aws #bootstrap

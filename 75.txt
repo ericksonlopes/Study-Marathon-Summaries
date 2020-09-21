@@ -1,0 +1,19 @@
+MARATONA DE ESTUDO - DIA Nº 75
+
+- Hoje o dia foi de praticar ! Criei mini blog, algo voltado para filosofia onde o administrador pode postar frases com o nome do autor e foto do mesmo utilizando a interface administrativa fornecida pelo Django admin.
+
+ - Link do site: https://filosofando-elds.herokuapp.com
+
+- Procurei um template Gratis bem simples para aplicar: https://templated.co/caminar
+
+- Repositório do projeto: https://github.com/Erickson-lopes-dev/Pratical_Project_Philosophizing 
+
+Estou com um pequeno problema com os asquivos de midia enviado pelo usuario, ao que aparente ser o erro, o sistema do heroku limpa esses arquivos(imagens) do projeto, mas estou trabalhando em uma solução para isso.
+
+- Links dos participantes da maratona:
+Jackson Silva: https://lnkd.in/g6D2WZu
+Erickson Lopes: https://lnkd.in/eHWNzTD
+Gustavo Neres: https://lnkd.in/eDCWHQZ
+
+
+#maratonadev #python #github #git #django #maratona #dev #maratona #heroku #deploy
