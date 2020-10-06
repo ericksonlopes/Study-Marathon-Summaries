@@ -1,0 +1,26 @@
+MARATONA DE ESTUDO - DIA Nº 79
+
+Retornando..
+
+Estudando sobre Class Based View - Django. Abordando os conceitos de:
+ Visualizações de base
+ - View
+ - TemplateView
+
+ Visualizações genéricas de exibição
+ - DetailView
+ - ListView
+
+ Visualizações de edição genéricas
+ - FormView
+ - CreateView
+ - UpdateView
+ - DeleteView
+
+Link da documentação: https://docs.djangoproject.com/en/3.1/ref/class-based-views/ 
+
+- Repositório do projeto: https://github.com/Erickson-lopes-dev/CBV_Django
+
+
+
+#maratonadev #python #github #git #django #maratona #dev #maratona #CBV # 
